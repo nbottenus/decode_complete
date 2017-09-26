@@ -12,6 +12,10 @@ This code is based on the algorithm proposed in:
 
 If you use the code/algorithm for research, please cite the above paper. For commercial use, please contact me at nick.bottenus@duke.edu to discuss the related IP.
 
+You can reference a static version of this code released with the paper by its DOI number:
+
+[![DOI](https://zenodo.org/badge/93632537.svg)](https://zenodo.org/badge/latestdoi/93632537)
+
 # Sample results
 
 Output of the sample code:
