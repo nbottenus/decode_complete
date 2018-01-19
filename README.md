@@ -8,7 +8,7 @@ Decode a set of focused transmit ultrasound beams into the "complete data set", 
 
 This code is based on the algorithm proposed in:
 
-> Bottenus, N. "Recovery of the complete data set from focused transmit beams". *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control*. In review.
+> Bottenus, N. "Recovery of the complete data set from focused transmit beams". *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control*, vol. 65, no. 1, pp. 30-38, Jan. 2018.
 
 If you use the code/algorithm for research, please cite the above paper. For commercial use, please contact me at nick.bottenus@duke.edu to discuss the related IP.
 
